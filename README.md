@@ -1,3 +1,3 @@
-#Welcome
+# Welcome
 
-Let's learn GIT
+Let's learn GIT!
